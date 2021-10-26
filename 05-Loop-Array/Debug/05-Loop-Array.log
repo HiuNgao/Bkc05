@@ -1,0 +1,3 @@
+﻿  05-Loop-Array.cpp
+D:\Project\05-Loop-Array\05-Loop-Array\05-Loop-Array.cpp(39,57): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+  05-Loop-Array.vcxproj -> D:\Project\05-Loop-Array\Debug\05-Loop-Array.exe
